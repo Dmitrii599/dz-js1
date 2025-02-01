@@ -5,7 +5,7 @@
 let sum = 0;
 let currentNumber = 1;
 
-while (number <=20) {
+while (currentNumber <=20) {
     sum += currentNumber;
     currentNumber++;
 }
