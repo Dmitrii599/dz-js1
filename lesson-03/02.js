@@ -3,9 +3,9 @@
 
 function isEven(number) {
     if(number % 2 === 0) {
-        console.log(true)
+        return true
     } else {
-        console.log(false)
+        return false
     }
 }
-isEven(10)
+isEven(2);
