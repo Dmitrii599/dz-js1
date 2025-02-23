@@ -22,13 +22,5 @@ function includesElement(array, element) {
     return false
 }
 
-includesElement([1, 2, 3], 2);
-// let array = [1, 2, 3];
-// let element = 4;
-console.log(includesElement([1, 2, 3], 2));
-
-// includesElement([4, 5, 6], 7);
-// let arrays = [4, 5, 6];
-// let elements = 6;
-// console.log(includesElement([4, 5, 6], 7));
-
+let array = [1, 2, 3];
+let element = 2;
