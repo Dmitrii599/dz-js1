@@ -76,7 +76,7 @@ petShop.addEventListener("click", function(event) {
   
 
     if (cart.length >= 3) {
-      messageBox.textContent = 'Вы не можете добавить более 3 питомцев.'
+      messageBox.textContent = 'Вы не можете добавить более 3 питомцев'
       return
     }
 
